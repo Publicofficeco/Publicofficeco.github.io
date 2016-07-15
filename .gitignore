@@ -1,2 +1,6 @@
-_site/
-.sass-cache/
+node_modules
+.tmp
+app
+test
+bower_components
+test/bower_components
